@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ENVIRONMENT>
+    <URL>https://atidcollege.co.il/Xamples/bmi/</URL>
+    <BROWSER_TYPE>chrome</BROWSER_TYPE>
+    <MY_WEIGHT>92</MY_WEIGHT>
+    <MY_HEIGHT>180</MY_HEIGHT>
+    <MY_BMI>28</MY_BMI>
+    <MY_MESSAGE>That you have overweight.</MY_MESSAGE>
+    <EMPTY_VALUE></EMPTY_VALUE>
+    <TEXT_BUTTON>Calculate BMI</TEXT_BUTTON>
+    <EXPECTED_ERROR_MESSAGE>Please Fill in all fields correctly !</EXPECTED_ERROR_MESSAGE>
+</ENVIRONMENT>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ENVIRONMENT>
+    <URL>https://www.saucedemo.com/</URL>
+    <USER_NAME>standard_user</USER_NAME>
+    <PASSWORD>secret_sauce</PASSWORD>
+    <EXPECTED_HOME_TITLE>Products</EXPECTED_HOME_TITLE>
+    <BROWSER_TYPE>chrome</BROWSER_TYPE>
+
+</ENVIRONMENT>
